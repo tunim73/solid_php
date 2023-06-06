@@ -1,0 +1,15 @@
+{
+    "name": "antonio/solid_php",
+    "autoload": {
+        "psr-4": {
+            "Antonio\\SolidPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tunim73",
+            "email": "antonio.netto973@gmail.com"
+        }
+    ],
+    "require": {}
+}
